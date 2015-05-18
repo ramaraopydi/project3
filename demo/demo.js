@@ -8,7 +8,11 @@
 			$('#switch-style').animate({'left':'-200px'});
 		}else{
 			$(this).addClass('open');
+<<<<<<< HEAD
 			$('#switch-style').animate({'left':'20px'});
+=======
+			$('#switch-style').animate({'left':'0px'});
+>>>>>>> origin/rb4
 		}
 	});
 });
