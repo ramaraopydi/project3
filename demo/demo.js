@@ -1,5 +1,5 @@
 /* =================================
-===  EXPAND COLLAPSE            ====
+===  EXPAND COLLAPSE WIDGET         ====
 =================================== */
  $(document).ready(function(){
  $('#toggle-switcher').click(function(){
