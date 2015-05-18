@@ -8,7 +8,7 @@
 			$('#switch-style').animate({'left':'-200px'});
 		}else{
 			$(this).addClass('open');
-			$('#switch-style').animate({'left':'0'});
+			$('#switch-style').animate({'left':'10px'});
 		}
 	});
 });
