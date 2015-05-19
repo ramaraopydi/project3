@@ -1,0 +1,23 @@
+From fe287ae80fefe95b53fe72d7a87a60d83f644e29 Mon Sep 17 00:00:00 2001
+From: ramaraopydi <prrao234@gmail.com>
+Date: Mon, 18 May 2015 19:00:54 +0530
+Subject: [PATCH 2/2] add widget on demo.js
+
+---
+ demo/demo.js | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/demo/demo.js b/demo/demo.js
+index 342e160..5295bec 100644
+--- a/demo/demo.js
++++ b/demo/demo.js
+@@ -1,5 +1,5 @@
+ /* =================================
+-===  EXPAND COLLAPSE            ====
++===  EXPAND COLLAPSE WIDGET         ====
+ =================================== */
+  $(document).ready(function(){
+  $('#toggle-switcher').click(function(){
+-- 
+1.9.5.github.0
+

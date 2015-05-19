@@ -1,0 +1,35 @@
+From a6b5949fddfcf736272472266f895c7a5ac75a6f Mon Sep 17 00:00:00 2001
+From: ramaraopydi <prrao234@gmail.com>
+Date: Mon, 18 May 2015 12:57:11 +0530
+Subject: [PATCH 1/2] update demo.css from test
+
+demo.css modified
+---
+ demo/demo.css | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+diff --git a/demo/demo.css b/demo/demo.css
+index 5556dac..8254dde 100644
+--- a/demo/demo.css
++++ b/demo/demo.css
+@@ -4,7 +4,7 @@
+     z-index: 9999;
+     top: 60px;
+     left: -220px;
+-    background: #FFFFFF;
++    background: #FFF;
+ }
+ 
+ .kane-style-switch:hover {
+@@ -15,7 +15,7 @@
+     position: relative;
+     width: 220px;
+     text-align: left;
+-    padding: 20px;
++    padding: 15px;
+     -webkit-box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.3);
+             box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.3);
+ }
+-- 
+1.9.5.github.0
+
